@@ -12,6 +12,9 @@ public class App
     }
 
     public static String Fizzbuzz(int n){
-        return n == 2 ? "2" : "1";
+        if (n % 3 == 0) {
+            return "Fizz";
+        }
+        return String.valueOf(n);
     }
 }

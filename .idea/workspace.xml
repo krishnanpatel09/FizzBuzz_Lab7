@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="aef98a18-ff09-44f8-a80a-887d8452195d" name="Changes" comment="Created test case for number 2 which should return 2&#10;Result: Test Failed">
+    <list default="true" id="aef98a18-ff09-44f8-a80a-887d8452195d" name="Changes" comment="Created logic for test case for number which is divisible by 3 which should return Fizz&#10;Result: Test Failed">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/org/example/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/App.java" afterDir="false" />
     </list>
@@ -99,7 +99,23 @@
       <option name="project" value="LOCAL" />
       <updated>1709168778651</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Created logic for test case for number 2 which should return 2&#10;Result: Test Passes">
+      <option name="closed" value="true" />
+      <created>1709168857498</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1709168857498</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Created logic for test case for number which is divisible by 3 which should return Fizz&#10;Result: Test Failed">
+      <option name="closed" value="true" />
+      <created>1709168954185</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1709168954185</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -107,6 +123,8 @@
     <MESSAGE value="Created test case for number 1 which should return 1&#10;Result: Test Failed" />
     <MESSAGE value="Created test case for number 1 which should return 1&#10;Result: Test Passed" />
     <MESSAGE value="Created test case for number 2 which should return 2&#10;Result: Test Failed" />
-    <option name="LAST_COMMIT_MESSAGE" value="Created test case for number 2 which should return 2&#10;Result: Test Failed" />
+    <MESSAGE value="Created logic for test case for number 2 which should return 2&#10;Result: Test Passes" />
+    <MESSAGE value="Created logic for test case for number which is divisible by 3 which should return Fizz&#10;Result: Test Failed" />
+    <option name="LAST_COMMIT_MESSAGE" value="Created logic for test case for number which is divisible by 3 which should return Fizz&#10;Result: Test Failed" />
   </component>
 </project>
