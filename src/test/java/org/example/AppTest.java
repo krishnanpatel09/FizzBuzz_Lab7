@@ -47,5 +47,6 @@ public class AppTest
 
         //Test case for Buzz
         assertEquals("Buzz", Fizzbuzz(5));
+        assertEquals("Buzz", Fizzbuzz(10));
     }
 }
