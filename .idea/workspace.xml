@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="aef98a18-ff09-44f8-a80a-887d8452195d" name="Changes" comment="Created logic for test case for number which is divisible by 3 and 5 which should return FizzBuzz&#10;Result: Test Failed">
+    <list default="true" id="aef98a18-ff09-44f8-a80a-887d8452195d" name="Changes" comment="Created logic for test case for number which is divisible by 3 and 5 which should return FizzBuzz&#10;Result: Test Passed">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/App.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/org/example/AppTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/org/example/AppTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -163,7 +163,15 @@
       <option name="project" value="LOCAL" />
       <updated>1709169311117</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="Created logic for test case for number which is divisible by 3 and 5 which should return FizzBuzz&#10;Result: Test Passed">
+      <option name="closed" value="true" />
+      <created>1709169558775</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1709169558775</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -177,6 +185,7 @@
     <MESSAGE value="Created logic for test case for number which is divisible by 5 which should return Buzz&#10;Result: Test failed" />
     <MESSAGE value="Created logic for test case for number which is divisible by 5 which should return Buzz&#10;Result: Test passed" />
     <MESSAGE value="Created logic for test case for number which is divisible by 3 and 5 which should return FizzBuzz&#10;Result: Test Failed" />
-    <option name="LAST_COMMIT_MESSAGE" value="Created logic for test case for number which is divisible by 3 and 5 which should return FizzBuzz&#10;Result: Test Failed" />
+    <MESSAGE value="Created logic for test case for number which is divisible by 3 and 5 which should return FizzBuzz&#10;Result: Test Passed" />
+    <option name="LAST_COMMIT_MESSAGE" value="Created logic for test case for number which is divisible by 3 and 5 which should return FizzBuzz&#10;Result: Test Passed" />
   </component>
 </project>

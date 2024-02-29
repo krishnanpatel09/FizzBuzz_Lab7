@@ -51,5 +51,6 @@ public class AppTest
 
         //Test case for FizzBuzz
         assertEquals("FizzBuzz", Fizzbuzz(15));
+        assertEquals("FizzBuzz", Fizzbuzz(30));
     }
 }
